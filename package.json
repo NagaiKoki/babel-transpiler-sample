@@ -1,0 +1,23 @@
+{
+  "name": "javascript-ast",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/cli": "^7.15.7",
+    "@babel/core": "^6.26.3",
+    "@babel/generator": "^7.15.4",
+    "@babel/parser": "^7.15.7",
+    "@babel/preset-env": "^7.15.6",
+    "@babel/traverse": "^7.15.4",
+    "core-js": "3"
+  },
+  "devDependencies": {
+    "babel-log": "^2.0.0"
+  }
+}
